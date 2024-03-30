@@ -1,6 +1,7 @@
 # API-resume
-This is json format resume 
-I have built an API service that serves my resume details in json format over an HTTP API for this I used nodejs and express 
+This is json format resume
+
+I have built using an API service that serves my resume details in json format over an HTTP API for this I used nodejs and express 
 
 it was served on localhost:3000/resume
 
