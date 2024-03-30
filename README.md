@@ -1,5 +1,5 @@
 # API-resume
-This is json format resume
+This is a simple fun project and a json format resume
 
 I have built using an API service that serves my resume details in json format over an HTTP API for this I used nodejs and express 
 
