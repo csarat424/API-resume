@@ -1,0 +1,97 @@
+{
+    "name": "Sarat Chandra Motamarri",
+    "phone": "4382289041",
+    "email": "csarat424@gmail.com",
+    "summary": "Aspiring and result-oriented engineer with a passion for DevOps and AWS engineering, eager to apply hands-on expertise in optimizing deployment pipelines and enhancing cloud infrastructure. Actively seeking opportunities to drive innovation and efficiency in a collaborative team environment.",
+    "skills": [
+      "AWS Cloud",
+      "Containerization – Docker",
+      "Orchestration – Kubernetes",
+      "Infrastructure as Code – Terraform",
+      "Configuration Management – Ansible",
+      "Documentation",
+      "CI/CD - Jenkins, GitHub Actions",
+      "Scripting – Bash",
+      "Linux – Ubuntu, CentOS, Fedora, RedHat",
+      "Version Controller – Git, GitHub",
+      "Programming Languages – Python, Go",
+      "Monitoring – Prometheus and Grafana"
+    ],
+    "projects": [
+      {
+        "name": "Orchestrated a captivating 2048 game on AWS EKS",
+        "description": "Leveraging Helm charts and AWS EKS for cloud-native deployment and scalability.",
+        "keyFeatures": [
+          "Cloud-native deployment on AWS EKS",
+          "Kubernetes orchestration",
+          "Helm charts for streamlined package management"
+        ],
+        "link": "https://medium.com/stackademic/eks-end-to-end-project-27abb0adcdd9"
+      },
+      {
+        "name": "Architected and automated an AWS VPC infrastructure with Terraform",
+        "description": "Included VPC, subnets, Internet Gateway, S3 Bucket, instances, security group, and an Application Load Balancer. Achieved a 25% cost reduction and 30% faster deployment time.",
+        "technologiesUsed": ["Terraform", "AWS"],
+        "link": "https://medium.com/@csarat424/day-24-terraform-with-aws-953572774c58"
+      },
+      {
+        "name": "Implemented cost optimization in AWS with CloudWatch and Lambda",
+        "description": "Utilized CloudWatch for monitoring and Lambda functions for automated cost reduction actions. Achieved a 25% decrease in cloud expenditure.",
+        "keyFeatures": [
+          "Automated resource scaling",
+          "Custom metric monitoring",
+          "Real-time cost analysis"
+        ],
+        "technologiesUsed": ["AWS CloudWatch", "AWS Lambda"],
+        "link": "https://medium.com/@csarat424/day-18-aws-cost-optimization-186bd205245b"
+      }
+    ],
+    "workExperience": [
+      {
+        "position": "Technical Blogger",
+        "company": "Self-Employed",
+        "location": "Remote",
+        "duration": "Oct 2023 – Present",
+        "responsibilities": [
+          "Published insightful and technically enriching articles on Hashnode and Medium.",
+          "Contributed to the community's knowledge base in DevOps/AWS.",
+          "Fostered a collaborative environment for continuous growth."
+        ]
+      },
+      {
+        "position": "Customer Service Representative",
+        "company": "Ikea",
+        "location": "Montreal, QC",
+        "duration": "Nov 2019 – May 2022",
+        "responsibilities": [
+          "Improved customer satisfaction exponentially by 95%.",
+          "Achieved first-call resolution through understanding customer needs.",
+          "Updated customers with the latest products on IKEA website and app."
+        ]
+      },
+      {
+        "position": "Customer Service Representative",
+        "company": "Teleperformance",
+        "location": "Montreal, QC",
+        "duration": "Nov 2018 – Nov 2019",
+        "responsibilities": [
+          "Utilized internal and external tools to resolve customer inquiries.",
+          "Increased new customer applications by 25% each month.",
+          "Prioritized multiple simultaneous workloads & expedited appropriate services."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Montreal College Of Information Technology",
+        "degree": "Post-Graduation Diploma",
+        "fieldOfStudy": "Computer Science - Web Application Development"
+      },
+      {
+        "institution": "Eastern Kentucky University",
+        "degree": "Master of Science",
+        "fieldOfStudy": "Applied Engineering and Technology Development"
+      }
+    ]
+  }
+  
